@@ -1,0 +1,2 @@
+# DNSWhitelist
+MiniLight's whitelist
